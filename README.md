@@ -12,6 +12,10 @@ A beautiful **todo list app** — organize your day, saved automatically in your
 ## 🚀 Live Demo
 **https://shahabkhan4636.github.io/TodoApp.pk/**
 
+## 📸 Screenshot
+
+[![Preview](https://raw.githubusercontent.com/shahabkhan4636/shahabkhan4636/main/images/todoapp.png)](https://shahabkhan4636.github.io/TodoApp.pk/)
+
 ## 🛠️ Tech Stack
 `HTML` `CSS` `JavaScript` `localStorage`
 
